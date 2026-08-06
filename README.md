@@ -10,3 +10,5 @@ Linguagens de Programação
 
 # Programador
 - Henrique Freitas
+
+Repetição até a exaustão, com correção leva a perfeição
